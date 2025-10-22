@@ -3,11 +3,12 @@ Sources
 
 What it is & how it works:
 
-- https://learn.microsoft.com/en-us/archive/blogs/miriamxyra/stop-using-lan-manager-and-ntlmv1
+- https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/dd560653(v=ws.10)
 - https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-nlmp/b38c36ed-2804-4868-a9ff-8dd3182128e4
 - https://learn.microsoft.com/en-us/windows-server/security/kerberos/ntlm-overview
 - https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-apds/5bfd942e-7da5-494d-a640-f269a0e3cc5d
 - https://learn.microsoft.com/en-us/troubleshoot/windows-server/windows-security/ntlm-user-authentication
+- https://learn.microsoft.com/en-us/archive/blogs/miriamxyra/stop-using-lan-manager-and-ntlmv1
 - https://davenport.sourceforge.net/ntlm.html#theNtlmv2Response
 - https://thievi.sh/blog/ntlm-fully-explained-for-security-professionals/
 
