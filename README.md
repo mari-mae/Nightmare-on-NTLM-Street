@@ -28,6 +28,7 @@ LM & NT Hash calculator:
 
 Exploitation:
 
+- https://www.mike-gualtieri.com/posts/live-off-the-land-and-crack-the-ntlmssp-protocol
 - https://en.hackndo.com/ntlm-relay/
 - https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html
 - https://0xdf.gitlab.io/2019/01/13/getting-net-ntlm-hases-from-windows.html
