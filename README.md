@@ -2,6 +2,7 @@
 Sources
 
 What it is & how it works:
+
 https://learn.microsoft.com/en-us/archive/blogs/miriamxyra/stop-using-lan-manager-and-ntlmv1
 https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-nlmp/b38c36ed-2804-4868-a9ff-8dd3182128e4
 https://learn.microsoft.com/en-us/windows-server/security/kerberos/ntlm-overview
@@ -10,6 +11,7 @@ https://learn.microsoft.com/en-us/troubleshoot/windows-server/windows-security/n
 https://davenport.sourceforge.net/ntlm.html#theNtlmv2Response
 
 Getting rid of NTLM:
+
 https://learn.microsoft.com/en-us/troubleshoot/windows-server/windows-security/audit-domain-controller-ntlmv1
 https://learn.microsoft.com/en-us/troubleshoot/windows-client/windows-security/enable-ntlm-2-authentication?source=recommendations
 https://syfuhs.net/killing-ntlm-is-hard
@@ -17,9 +19,11 @@ https://techcommunity.microsoft.com/blog/coreinfrastructureandsecurityblog/activ
 https://willssysadmintechblog.wordpress.com/2023/08/22/disabling-ntlm-authentication-guide-part-1/
 
 LM & NT Hash calculator: 
+
 https://asecuritysite.com/security50.aspx 
 
 Exploitation:
+
 https://en.hackndo.com/ntlm-relay/
 https://0xdf.gitlab.io/2019/01/13/getting-net-ntlm-hases-from-windows.html
 https://www.thehacker.recipes/ad/movement/ntlm/relay
