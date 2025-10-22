@@ -17,6 +17,7 @@ Getting rid of NTLM:
 
 - https://learn.microsoft.com/en-us/troubleshoot/windows-server/windows-security/audit-domain-controller-ntlmv1
 - https://learn.microsoft.com/en-us/troubleshoot/windows-client/windows-security/enable-ntlm-2-authentication?source=recommendations
+- https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/jj865682(v=ws.10)?redirectedfrom=MSDN
 - https://syfuhs.net/killing-ntlm-is-hard
 - https://techcommunity.microsoft.com/blog/coreinfrastructureandsecurityblog/active-directory-hardening-series---part-1-–-disabling-ntlmv1/3934787
 - https://willssysadmintechblog.wordpress.com/2023/08/22/disabling-ntlm-authentication-guide-part-1/
