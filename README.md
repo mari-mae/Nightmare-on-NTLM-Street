@@ -9,6 +9,7 @@ What it is & how it works:
 - https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-apds/5bfd942e-7da5-494d-a640-f269a0e3cc5d
 - https://learn.microsoft.com/en-us/troubleshoot/windows-server/windows-security/ntlm-user-authentication
 - https://davenport.sourceforge.net/ntlm.html#theNtlmv2Response
+- https://thievi.sh/blog/ntlm-fully-explained-for-security-professionals/
 
 
 Getting rid of NTLM:
