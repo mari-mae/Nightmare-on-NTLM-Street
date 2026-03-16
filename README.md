@@ -21,6 +21,7 @@ Getting rid of NTLM:
 - https://syfuhs.net/killing-ntlm-is-hard
 - https://techcommunity.microsoft.com/blog/coreinfrastructureandsecurityblog/active-directory-hardening-series---part-1-–-disabling-ntlmv1/3934787
 - https://willssysadmintechblog.wordpress.com/2023/08/22/disabling-ntlm-authentication-guide-part-1/
+- https://techcommunity.microsoft.com/discussions/azureadvancedthreatprotection/enriched-ntlm-authentication-data-using-windows-event-8004/871827
 
 
 LM & NT Hash calculator: 
